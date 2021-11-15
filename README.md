@@ -35,3 +35,14 @@ The forecast for the next 5 years has shown that the GHG emissions would continu
 Given the targeted net zero GHG emissions by 2050, this forecast has shown a 50% reduction of GHG emissions from 1990 to 2025,  with the aim targetting 80% reduction in GHG emissions compared with the levels of 1990, 
 adequate measures needs to be taken to achieve this goal. 
 Further research needs to carried out to check which particular industries is increasingly contributing to this GHG emissions and look at measure to futher remove and reduce the GHG emissions. 
+
+
+## FORECASTING FOR THE NEXT 5 YEARS WITH POWERBI
+
+### RESULT FROM POWERBI
+
+ FIG 1. Forecast of GHG Emissions for the next Five Years
+
+![forecast](https://user-images.githubusercontent.com/63594833/141844817-66936b0d-9fdb-4868-8330-61e223327610.PNG)
+
+ 
